@@ -6,7 +6,18 @@ h3{
 }
 p{
     text-align: justify;
+  margin: 0 300px;
+    border: 2px solid yellowgreen;
+    border-bottom: 2px solid brown;
 }
 body{
     background-color: aqua;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px dotted blueviolet;
+    border-radius: 30%;
+
+
 }
