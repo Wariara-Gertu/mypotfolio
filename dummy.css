@@ -1,0 +1,24 @@
+h3{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+
+}
+p{
+    text-align: justify;
+  margin: 0 30px;
+    border: 2px solid yellowgreen;
+    border-bottom: 2px solid brown;
+    padding-left: 10px;
+}
+body{
+    background-color: aqua;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px dotted blueviolet;
+    border-radius: 30%;
+
+
+}
